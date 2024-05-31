@@ -59,7 +59,7 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 - 杨恒昭, **杨文进**, "基于单循环数据的电池寿命预测方法、系统、设备和介质," 中国发明专利申请, 申请号202410613275.6, 2024.
 - 杨恒昭, **杨文进**, "一种用于电动汽车的充电调度方法与系统," 中国发明专利申请, 申请号202310560594.0, 2023.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2022.10*, Graduate Academic Scholarship
 - *2023.10*, Graduate Academic Scholarship
 
