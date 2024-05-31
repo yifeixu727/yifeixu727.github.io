@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenjin Yang"
   avatar           : "images/logo.jpg"
-  bio              : "M.S. student in computer science"
-  location         : "Shanghai, China 🇨🇳"
+  bio              : "M.S. student in computer science 💻"
+  location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : 
   googlescholar    : # ""
