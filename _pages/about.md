@@ -30,7 +30,7 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 
 # 🔥 News
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by ITEC 2024!
-- *2023.04*: &nbsp;🎉🎉 One paper is accepted by EPE 2023!
+- *2023.04*: &nbsp;🎊🎊 One paper is accepted by EPE 2023!
 
 
 # 📝 Publications 
