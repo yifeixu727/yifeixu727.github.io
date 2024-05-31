@@ -60,8 +60,8 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 - 杨恒昭, **杨文进**, "一种用于电动汽车的充电调度方法与系统," 中国发明专利申请, 申请号202310560594.0, 2023.
 
 # 🎖 Honors and Awards
-- *2022.10* Graduate Academic Scholarship
-- *2023.10* Graduate Academic Scholarship
+- *2022.10*, Graduate Academic Scholarship
+- *2023.10*, Graduate Academic Scholarship
 
 
 # 📖 Educations
