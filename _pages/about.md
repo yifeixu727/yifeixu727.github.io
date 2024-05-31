@@ -34,6 +34,9 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 
 
 # 📝 Publications 
+
+### 2024
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,6 +52,8 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 
 </div>
 </div>
+
+### 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPE 2023</div><img src='images/epe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
