@@ -53,7 +53,7 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPE 2023</div><img src='images/epe2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [1] **Wenjin Yang** and Hengzhao Yang, "**Charging pricing incentives-enabled coordinated dispatching for improved overall benefits of electric vehicles and islanded photovoltaic charging stations**," in *Proceedings of the 25th European Conference on Power Electronics and Applications (EPE 2023)*, pp. 1-7, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10264650) [[Poster]](docs\epe_poster.pdf)
+- [1] **Wenjin Yang** and Hengzhao Yang, "**Charging pricing incentives-enabled coordinated dispatching for improved overall benefits of electric vehicles and islanded photovoltaic charging stations**," in *Proceedings of the 25th European Conference on Power Electronics and Applications (EPE 2023)*, pp. 1-7, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10264650)
 
 </div>
 </div>
