@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a second year graduate student from ShanghaiTech University. I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree with the School of Information Science and Technology ([SIST](https://www.sist.shanghaitech.edu.cn)), [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai, China. My research interest includes **AI for Energy**, especially AI for batteries.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPE 2023</div><img src='images/epe2023.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPE 2023</div><img src='images/epe2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Wenjin Yang** and Hengzhao Yang, "Charging pricing incentives-enabled coordinated dispatching for improved overall benefits of electric vehicles and islanded photovoltaic charging stations," in *Proceedings of the 25th European Conference on Power Electronics and Applications (EPE 2023)*, pp. 1-7, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10264650)
@@ -53,9 +53,13 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 # 📝 Patents
+- 杨恒昭, **杨文进**, "基于单循环数据的电池寿命预测方法、系统、设备和介质," 中国发明专利申请, 申请号202410613275.6, 2024.
+- 杨恒昭, **杨文进**, "一种用于电动汽车的充电调度方法与系统," 中国发明专利申请, 申请号202310560594.0, 2023.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Graduate Academic Scholarship
+- *2023.10* Graduate Academic Scholarship
+
 
 # 📖 Educations
 - *2022.09 - now*, ShanghaiTech University. 
