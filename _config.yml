@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Homepage"
-description              : "Master student@ShanghaiTech University"
+description              : "M.S. student"
 repository               : ""
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenjin Yang (杨文进)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master student in computer science"
+  avatar           : "images/log.jpg"
+  bio              : "M.S. student in computer science"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : 
