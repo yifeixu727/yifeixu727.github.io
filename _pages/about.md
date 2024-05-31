@@ -18,7 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🤠 About Me
-I am a second year graduate student from ShanghaiTech University. I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree in Computer Science with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai, China. My research interest includes **AI for Energy (AI4E)**, especially AI for batteries.
+I am a second year graduate student from ShanghaiTech University. I recieved my B.S. degree in Computer Science from ShanghaiTech University, Shanghai, in Summer 2022. I am currently working toward the M.S. degree in Computer Science with the School of Information Science and Technology ([SIST](https://sist.shanghaitech.edu.cn)), [ShanghaiTech University](https://www.shanghaitech.edu.cn), Shanghai, China. My research interests include:
+- **AI for Energy (AI4E)**, especially AI for batteries
+- State of health (SOH) estimation
+- Remaining useful life (RUL) prediction
+- Fault detection
+- Time series prediction
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
