@@ -70,8 +70,8 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 
 
 # 📖 Educations
-- *2022.09 - now*, ShanghaiTech University. 
-- *2018.09 - 2022.06*, ShanghaiTech University. 
+- *2022.09 - now*, M.S., Computer Science, ShanghaiTech University. 
+- *2018.09 - 2022.06*, B.S., Computer Science, ShanghaiTech University. 
 
 
 <!-- # 💻 Internships -->
