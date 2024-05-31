@@ -35,7 +35,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 # 📝 Publications 
 
-(:cherry_blossom: first author /:sunflower: co-author)
+(🌸 first author / 🌼 co-author)
 
 ## 2024
 
