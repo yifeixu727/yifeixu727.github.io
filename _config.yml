@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenjin Yang (杨文进)"
+title                    : "Wenjin Yang"
 description              : "Energy Storage Lab (ESL) Member"
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenjin Yang"
+  name             : "Wenjin Yang (杨文进)"
   avatar           : "images/logo.jpg"
   bio              : "M.S. Student in Computer Science 💻"
   location         : "Shanghai, China"
