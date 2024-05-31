@@ -29,7 +29,7 @@ I am a second year graduate student from ShanghaiTech University. I recieved my 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Can Zhang, Caiying Xu, **Wenjin Yang**, Yifei Xu, Mingxia Wu, Zhongxun An, and Hengzhao Yang, "**An online supercapacitor capacitance labeling method based on tram field data**," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, in press. 
