@@ -33,6 +33,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - **Wenjin Yang** and Hengzhao Yang, "Charging pricing incentives-enabled coordinated dispatching for improved overall benefits of electric vehicles and islanded photovoltaic charging stations," in *Proceedings of the 25th European Conference on Power Electronics and Applications (EPE 2023)*, pp. 1-7, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10264650)
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
