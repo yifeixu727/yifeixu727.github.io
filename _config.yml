@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenjin Yang (杨文进)"
-  avatar           : "images/log.jpg"
+  avatar           : "images/android-chrome-192x192.png"
   bio              : "M.S. student in computer science"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
