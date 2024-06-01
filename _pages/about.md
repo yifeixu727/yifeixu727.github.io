@@ -35,7 +35,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 # 📝 Publications 
 
-(🌸 first author / 🌻 co-author)
+(🌸 first author [1 paper] / 🌻 co-author [2 papers])
 
 ## 2024
 
