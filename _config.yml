@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenjin Yang"
+title                    : "Yifei Xu"
 description              : "Energy Storage Lab (ESL) Member"
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenjin Yang"
+  name             : "Yifei Xu"
   avatar           : "images/logo.jpg"
-  bio              : "M.S. Student in Computer Science 💻"
+  bio              : "M.S. Student in Electrical Engineering 💻"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : 
   googlescholar    : # ""
-  email            : "yangwj2022@shanghaitech.edu.cn"
+  email            : "xuyf2023@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "csyangwenjin"
+  github           : "yifeixu727"
   google_plus      :
   keybase          :
   instagram        :
