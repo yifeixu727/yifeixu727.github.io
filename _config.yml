@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yifei Xu"
   avatar           : "images/logo.jpg"
-  bio              : "M.S. Student in Electrical Engineering 💻"
+  bio              : "M.S. Student in Electrical Engineering"
   location         : "Shanghai, China"
   employer         : "ShanghaiTech University"
   pubmed           : 
