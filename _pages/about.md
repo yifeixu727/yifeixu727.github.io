@@ -47,7 +47,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2025</div><img src='images/2025itex_zhao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2025</div><img src='images/2025itec_zhao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - 🌻 [4] Jiaqi Zhao, Song Feng, Caiying Xu, **Yifei Xu**, Wenjin Yang, and Hengzhao Yang, "A multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
 </div>
@@ -75,7 +75,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 # 📜 Patents
 (🌸 first author [3 patents] / 🌻 co-author [2 patents])
 - 🌻 [P5] 杨恒昭, 赵佳琪, 徐彩莹, **徐艺菲**, 杨文进, "一种基于分层识别的车辆动力电池故障诊断方法," 中国发明专利申请, 申请号202411634580.X, 2024.
-- 🌸 [P4] 杨恒昭, **徐艺菲**, "基于里程的动力电池容量修正方法、系统、设备和介质," 中国发明专利申请, 申请号202411257474.4, 2024.（已授权）
+- 🌸 [P4] 杨恒昭, **徐艺菲**, "基于里程的动力电池容量修正方法、系统、设备和介质," 中国发明专利申请, 申请号202411257474.4, 2024. （已授权）
 - 🌸 [P3] 杨恒昭, **徐艺菲**, "动力电池容量轨迹的预测方法、系统、设备和介质," 中国发明专利申请, 申请号202411257468.9, 2024.
 - 🌻 [P2] 杨恒昭, 张灿, 徐彩莹, 黄廷立, 安仲勋, 吴明霞, 杨文进, **徐艺菲**, "适用于载运工具中超级电容供能系统的容值标定方法," 中国发明专利申请, 申请号202410615364.4, 2024.
 - 🌸 [P1] 杨恒昭, 张英杰, **徐艺菲**, 王福浩, 杨文进, 徐彩莹, "基于用户行为的动力电池健康状态预测方法和系统," 中国发明专利申请, 申请号202410615365.9, 2024. （已授权）
@@ -85,7 +85,7 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 
 # 🏫 Educations
-- *2022.09 - now*, M.S., Computer Science, ShanghaiTech University
+- *2023.09 - now*, M.S., Computer Science, ShanghaiTech University
 - *2018.09 - 2022.06*, B.S., Computer Science, ShanghaiTech University
 
 
