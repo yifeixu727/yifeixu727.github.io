@@ -36,36 +36,33 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 (🌸 first author [2 paper] / 🌻 co-author [3 papers])
 
-## 2024
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- 🌻 [5] Yuhong Fan, Song Feng, **Yifei Xu**, Jiaqi Zhao, Caiying Xu, Wenjin Yang, and Hengzhao Yang, "A battery selfdischarge fault diagnosis method for on-road electric vehicles," in Proceedings of the 2025 IEEE 16th International Symposium on Power Electronics for Distributed Generation Systems (PEDG 2025), in press.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
-- 🌻 [5] Yuhong Fan, Song Feng, **Yifei Xu**, Jiaqi Zhao, Caiying Xu, Wenjin Yang, and Hengzhao Yang, "A battery selfdischarge fault diagnosis method for on-road electric vehicles," in Proceedings of the 2025 IEEE 16th International Symposium on Power Electronics for Distributed Generation Systems (PEDG 2025), in press.
-
-</div>
-</div>
-
 - 🌻 [4] Jiaqi Zhao, Song Feng, Caiying Xu, **Yifei Xu**, Wenjin Yang, and Hengzhao Yang, "A multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
-
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - 🌸 [3] **Yifei Xu** and Hengzhao Yang, "A battery capacity trajectory prediction framework with mileage correction for electric buses," Journal of Energy Storage, vol. 110, pp. 115301:1-115301:12, 2025.
-  
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 - 🌻 [2] Can Zhang, Caiying Xu, Wenjin Yang, **Yifei Xu**, Mingxia Wu, Zhongxun An, and Hengzhao Yang, "An online supercapacitor capacitance labeling method based on tram field data," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-5, 2024. 
-
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xyf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 - 🌸 [1] **Yifei Xu**, Yingjie Zhang, Wenjin Yang, Caiying Xu, Fuhao Wang, and Hengzhao Yang, "A battery state of health prediction framework considering user behavior for on-road electric vehicles," in *Proceedings of the 2024 IEEE Transportation Electrification Conference and Exposition (ITEC 2024)*, pp. 1-6, 2024. 
-
 </div>
 </div>
 
