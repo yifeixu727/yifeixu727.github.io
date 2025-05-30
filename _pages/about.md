@@ -34,21 +34,26 @@ I am a second year graduate student from [ShanghaiTech University](https://www.s
 
 # 📝 Publications 
 
-(🌸 first author [2 paper] / 🌻 co-author [3 papers])
+(🌸 first author [2 paper] / 🌻 co-author [4 papers])
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VPPC 2025</div><img src='2025IAS_zhao.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- 🌻 [6] Jiaqi Zhao#, Jingying Xie, Yong Li, Fanqi Min, and Hengzhao Yang*, "A diagnosis framework for early-stage internal short circuit faults of lithium metal batteries based on incremental capacity," in Proceedings of the 2025 IEEE Vehicle Power and Propulsion Conference (VPPC 2025), in press.
+</div>
+</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PEDG 2025</div><img src='2025pedg_fan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - 🌻 [5] Yuhong Fan, Song Feng, **Yifei Xu**, Jiaqi Zhao, Caiying Xu, Wenjin Yang, and Hengzhao Yang, "A battery selfdischarge fault diagnosis method for on-road electric vehicles," in Proceedings of the 2025 IEEE 16th International Symposium on Power Electronics for Distributed Generation Systems (PEDG 2025), in press.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2025</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - 🌻 [4] Jiaqi Zhao, Song Feng, Caiying Xu, **Yifei Xu**, Wenjin Yang, and Hengzhao Yang, "A multi-fault diagnosis framework for electric vehicle batteries," in Proceedings of the 2025 IEEE Transportation Electrification Conference and Exposition (ITEC 2025), in press.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ITEC 2024</div><img src='images/itec2024_xcy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JES 2025</div><img src='jes2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - 🌸 [3] **Yifei Xu** and Hengzhao Yang, "A battery capacity trajectory prediction framework with mileage correction for electric buses," Journal of Energy Storage, vol. 110, pp. 115301:1-115301:12, 2025.
 </div>
